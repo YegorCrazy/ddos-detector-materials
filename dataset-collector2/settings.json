@@ -1,0 +1,6 @@
+{
+    "name": "dataset-collector-2",
+    "rest": false,
+    "cli": false,
+    "data-pickup-period": 3
+}

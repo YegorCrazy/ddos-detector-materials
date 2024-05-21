@@ -1,0 +1,8 @@
+{
+    "name": "ddos-detector2",
+    "rest": false,
+    "cli": false,
+    "data-pickup-period": 3,
+    "weights_file": "weights",
+    "arima_weights_file": "arima_weights"
+}
